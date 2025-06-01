@@ -65,7 +65,7 @@ const Home = () => {
             transition={{ duration: 0.5 }}
           >
             <h1 className="text-4xl md:text-5xl font-bold text-gray-900 leading-tight mb-4">
-              No-Code Apps.<br />WordPress Sites.<br />CodeGen Full-Code.<className=""></Full-Code><br />Real Results.
+              No-Code Apps.<br />WordPress Sites.<br />CodeGen Full-Code.<br />Real Results.
             </h1>
             <p className="text-xl text-gray-600 mb-8">
               We build affordable websites, web apps, and mobile apps for small businesses and solopreneurs in Seattle and beyond. Get professional results without enterprise costs.
