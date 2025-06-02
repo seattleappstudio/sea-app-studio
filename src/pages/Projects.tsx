@@ -99,23 +99,22 @@ const Projects = () => {
       tags: ["Automation", "Service Business", "Custom Solution"]
     },
     {
-      title: "Emerald City Real Estate",
-      subtitle: "Property Management Platform",
+      title: "Naughty & Nice Nails",
+      subtitle: "One-Page Landing Page & Appointment Booking Site",
       description: [
-        "A custom property management solution that streamlines listings, tenant applications, and maintenance requests.",
-        "The platform helped reduce vacancy rates by 30% and improved maintenance response times by 50%."
+        "A vibrant, one-page website designed for this Lake City nail salon, capturing the salon’s playful brand and creative spirit. The site makes it easy for new and returning clients to book appointments, explore services, and find the salon’s location..",
       ],
       features: [
-        "Property listing management",
-        "Tenant application portal",
-        "Maintenance request system",
-        "Automated rent collection",
-        "Document management",
-        "Property analytics dashboard"
+        "One-page CodeGen web site with custom visual branding",
+        "Mobile-optimized layout for salon-goers on the go",
+        "Embedded Calendly link for easy appointment scheduling",
+        "Photo gallery showcasing creative nail art designs",
+        "Google Maps integration for walk-in directions",
+        "Lead capture form for client inquiries and follow-up"
       ],
-      imageUrl: "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg",
-      screenshotUrl: "https://images.pexels.com/photos/209296/pexels-photo-209296.jpeg",
-      tags: ["Real Estate", "Property Management", "Custom Platform"]
+      imageUrl: "/images/fingernails.jpg",
+      screenshotUrl: "images/naught-nice.png",
+      tags: ["Nail Salon", "Landing Page", "CodeGen Site"]
     },
     {
       title: "Seattle Art Gallery",
